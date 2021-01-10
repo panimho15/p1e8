@@ -1,0 +1,17 @@
+#include <studio.h>
+int main (void)
+int varieables
+integers:Hοst
+real:AM57[30,6],NB3842[22,4]
+characters:P,AN
+{
+    P,AM57[30,6]<-0
+    P,NB3842[22,4]<-0
+    START_REPLAY
+    WRIGHT "THERE IS EMPTY POSITION YES OR NO?"
+    READ AN
+    IF AN="YES" THEN
+    READ P
+     
+    
+    
