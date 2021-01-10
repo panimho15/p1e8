@@ -12,6 +12,8 @@ characters:P,AN
     READ AN
     IF AN="YES" THEN
     READ P
-     
-    
+    CHOOSE P[3]
+    OTHERWISE_IF AN="NO" THEN
+    READ "Den yparxei ewleutherei thesei"
+    END_REPLAY    
     
